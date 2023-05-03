@@ -1,6 +1,8 @@
+<template>
+  <div class="main-container">
+    <h1>Home</h1>
+  </div>
+</template>
+
 <script>
 </script>
-
-<template>
-  <h1>Home</h1>
-</template>
