@@ -12,7 +12,6 @@
 
 <style scoped>
     #footer{
-        position: absolute;
         height: 200px;
         background: #222;
         border-top: 4px solid #111;
