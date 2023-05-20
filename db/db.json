@@ -102,18 +102,6 @@
     },
     {
       "nome": "André",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Tomate",
-        "Cheddar",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "André",
       "carne": "Maminha",
       "pao": "Parmesão e Orégano",
       "opcionais": [
@@ -134,6 +122,21 @@
       ],
       "status": "Solicitado",
       "id": 5
+    },
+    {
+      "nome": "André",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa",
+        "Cheddar",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 6
     }
   ]
 }
