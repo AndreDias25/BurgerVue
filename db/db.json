@@ -97,7 +97,7 @@
         "Cheddar",
         "Pepino"
       ],
-      "status": "Em produção",
+      "status": "Finalizado",
       "id": 2
     },
     {
@@ -137,16 +137,6 @@
       ],
       "status": "Solicitado",
       "id": 6
-    },
-    {
-      "nome": "Cleberson",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 7
     }
   ]
 }
